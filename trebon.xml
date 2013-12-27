@@ -2,7 +2,7 @@
 <manifest>
     <!-- CM replacements -->
     <remove-project name="CyanogenMod/android_frameworks_native" />
-    <project path="frameworks/native" name="TesterTerbon/android_frameworks_native-1" revision="cm-11.0" />
+    <project path="frameworks/native" name="TesterTerbon/android_frameworks_native" revision="cm-11.0" />
 
     <!-- Local projects -->
     <project path="external/webkit" name="legaCyMod/android_external_webkit" revision="cm-11.0" />
