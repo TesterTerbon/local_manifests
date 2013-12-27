@@ -2,7 +2,6 @@
 <manifest>
     <!-- CM replacements -->
     <remove-project name="CyanogenMod/android_frameworks_native" />
-    <remove-project name="omnirom/android_frameworks_native" />
     <project path="frameworks/native" name="TesterTerbon/android_frameworks_native-1" revision="cm-11.0" />
 
     <!-- Local projects -->
